@@ -1,2 +1,0 @@
-# PigLatin
-Simple piglatin translator
